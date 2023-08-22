@@ -1,3 +1,4 @@
+/*en este arreglo se consignan todos los codigos de acceso */ 
 const codigosAcceso = [
     "ARQ2555: Sara Bel-Sun",
     "ARQ2556: Nodin Chavdri",
